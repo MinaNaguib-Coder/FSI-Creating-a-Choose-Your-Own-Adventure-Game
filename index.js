@@ -8,6 +8,9 @@ Do you follow it, or continue on your path?`)
         
             else if (secondAnswer === 'continue'){let thirdAnswer = window.prompt('You come across a chamber that reaches upward to a shining light above. There is a long, winding staircase, and a much quicker, but rickety-looking ladder that leads up toward the light. Which do you take?')}
 }
+
+
+
     else if(firstAnswer === 'right') {
     let secondAnswer = window.prompt(`You come across a snoring dragon. 
 On the other side of him, you see a shiny chest of treasure. Another path would 
